@@ -6,11 +6,6 @@
     </profile>
     <version value="1.0" />
   </component>
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/blockchain-practice.iml" filepath="$PROJECT_DIR$/blockchain-practice.iml" />
-    </modules>
-  </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
